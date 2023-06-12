@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "334359601228",
+    "project_id": "kullanici-sistemi",
+    "storage_bucket": "kullanici-sistemi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:334359601228:android:248d312d7879cb21ebd4e9",
+        "android_client_info": {
+          "package_name": "com.denizc.kullancsistemi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "334359601228-bkbn4i3c02tqp4gqme3p2jm0b8pf7knq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-IN9NKvOvEK5dj6FxZrwQjwKfIgNuUJY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "334359601228-bkbn4i3c02tqp4gqme3p2jm0b8pf7knq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
